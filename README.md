@@ -10,8 +10,8 @@
 
 <div>
 
- ![git status](https://github-readme-stats.vercel.app/api?username=lcavalcantic&show_icons=true)
- [![top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lcavalcantic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=lcavalcantic&show_icons=true&theme=transparent)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lcavalcantic&layout=compact&theme=transparent)
 </div>
   <br>
   <h3> 📝 languages <br></h3>
