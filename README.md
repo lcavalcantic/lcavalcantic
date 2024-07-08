@@ -4,11 +4,11 @@
 
 - 👋🏽Hi, there!                       
 - 📌I'm from Recife, Pe - Brasil         
-- 💻Systems Analysis and Development Student <br>
+- 💻Systems Analysis and Development Student <br> <br>
 
--   🖥️ GitHub Profile Stats
+🖥️ GitHub Profile Stats
 
-<div align="center">
+<div>
   <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcavalcantic&layout=compact&theme=dark&hide=html,css,scss,php,ejs" />
 </div>
 
