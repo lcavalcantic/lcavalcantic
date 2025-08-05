@@ -20,3 +20,4 @@
      width="40" 
      height="40" 
      alt="Cypress" />
+     <img width="40" display="block" height="40" src="https://avatars.githubusercontent.com/u/54646432?s=200&v=4" />
